@@ -14,6 +14,9 @@ export function CardHeader() {
           <h1 className="text-balance text-3xl font-semibold tracking-tight sm:text-4xl">
             Alan Molina
           </h1>
+          <p className="mt-1 text-sm font-medium text-primary-foreground">
+            Now on GitHub
+          </p>
           <p className="mt-1 flex items-center gap-1.5 text-sm text-primary-foreground/80">
             <MapPin className="size-4" aria-hidden="true" />
             Las Vegas, NV · Available for remote work
